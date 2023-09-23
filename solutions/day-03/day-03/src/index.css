@@ -1,0 +1,15 @@
+.fit {
+    max-width: 99%;
+    max-height: 99%;
+  }
+
+  .container {
+    font-family: arial;
+    font-size: 24px;
+    margin: 25px;
+    max-width: 99%;
+    max-height: 99%;
+    background-color:aqua;
+    outline: solid 1px black;
+    justify-content: center;
+  }
